@@ -19,7 +19,7 @@ public class Main {
 
     public static void user4(){
         for (int i=0;i<5;i++){
-            System.out.print("user4__");
+            System.out.print("NEGRIU");
         }
     }
 
