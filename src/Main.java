@@ -7,7 +7,7 @@ public class Main {
     }
     public static void user2othman(){
         for (int i=0;i<5;i++){
-            System.out.print("user 2 es othman");
+            System.out.print("user 2 es othman"); //test
         }
     }
 
