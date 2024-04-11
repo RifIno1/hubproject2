@@ -13,7 +13,7 @@ public class Main {
 
     public static void user3(){
         for (int i=0;i<5;i++){
-            System.out.print("Hola, SoyManooloooooooooooooo");
+            System.out.print("Hola, SoyManooloooooooooooooo y tengo 18 años");
         }
     }
 
@@ -29,7 +29,11 @@ public class Main {
 
         Achraf();
         System.out.println();
-        // escribe tu methodo aquiiii!!!
+        // escribe tu methodo aquiiiiiiiiiiii!!!
+        // ggg oo
+        // okok
+        // hi
+
 
 
 
