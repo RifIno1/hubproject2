@@ -5,9 +5,21 @@ public class Main {
             System.out.print("Achraf__");
         }
     }
-    public static void Ibrahimi(){
+    public static void user2(){
         for (int i=0;i<5;i++){
-            System.out.print("Ibrahimi__");
+            System.out.print("user2__");
+        }
+    }
+
+    public static void user3(){
+        for (int i=0;i<5;i++){
+            System.out.print("user3__");
+        }
+    }
+
+    public static void user4(){
+        for (int i=0;i<5;i++){
+            System.out.print("user4__");
         }
     }
 
@@ -17,7 +29,9 @@ public class Main {
 
         Achraf();
         System.out.println();
-        Ibrahimi();
+        // escribe tu methodo aquiiii!!!
+
+
 
     }
 }
