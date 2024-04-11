@@ -13,7 +13,7 @@ public class Main {
 
     public static void user3(){
         for (int i=0;i<5;i++){
-            System.out.print("Hola, SoyManoolo");
+            System.out.print("SoyManoolo");
         }
     }
 
